@@ -1,1 +1,2 @@
 Run scrapermodule through cmd. Ignore excel unicode error if any
+Also theres a weird problem with excel where it doesnt use a part of the csv text properly idk if it will be fixed or not
