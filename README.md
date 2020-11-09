@@ -1,2 +1,2 @@
 # New-Projects
-If you want to add any projects please add it here
+Add all projects here. We could make this public in the future idk
